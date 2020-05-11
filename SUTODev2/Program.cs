@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _1_Operators;
+using System;
 
 namespace SUTODev2
 {
@@ -6,7 +7,23 @@ namespace SUTODev2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello SUTODev2!");
+
+
+
+
+
+
+            #region 1_Operators
+            //Operators.ArrayTest();
+            //Operators.GetArrayLastElement();
+            #endregion
+
+
+
+            #region Common
+            Console.WriteLine("Hit any key to continue...");
+            Console.ReadKey();
+            #endregion
         }
     }
 }
