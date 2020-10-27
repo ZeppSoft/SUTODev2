@@ -21,7 +21,7 @@ namespace _1_Operators
             int[] arr = { 1, 2, 3, 4 };
 
 
-            Console.WriteLine(arr[^1]);
+            //Console.WriteLine(arr[^1]);
         }
     }
 }
