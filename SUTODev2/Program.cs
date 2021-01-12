@@ -54,7 +54,6 @@ namespace SUTODev2
 
 
             #endregion
-
             #region 5_InternalCollections
 
             /*var l = new List<int>() { 4, 5, 6 };
@@ -76,19 +75,22 @@ namespace SUTODev2
 
             //Can we resize the regular array?
 
-            var arr = new int[10];
-            arr[0] = 1;
-            arr[1] = 2;
-            Console.WriteLine(arr.Length);
-            Array.Resize(ref arr, 15);
-            Console.WriteLine(arr.Length);
-
+            /* var arr = new int[10];
+             arr[0] = 1;
+             arr[1] = 2;
+             Console.WriteLine(arr.Length);
+             Array.Resize(ref arr, 15);
+             Console.WriteLine(arr.Length); 
+            */
 
 
 
 
             #endregion
+            #region 5_LINQ
 
+            Linq.SimpleFrom();
+            #endregion
 
             #region Common
             Console.WriteLine("Hit any key to continue...");

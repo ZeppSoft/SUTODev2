@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SUTODev2", "SUTODev2\SUTODev2.csproj", "{09FB182B-BC74-4708-87FB-CC1EFB330D16}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Operators", "1_Operators\1_Operators.csproj", "{914089C5-E462-4B0E-BD58-1D3079FF95B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib", "1_Operators\Lib.csproj", "{914089C5-E462-4B0E-BD58-1D3079FF95B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUTOTests", "SUTOTests\SUTOTests.csproj", "{FCF2B359-7C0B-48CA-A58F-13A26A29846C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SUTOTests", "SUTOTests\SUTOTests.csproj", "{FCF2B359-7C0B-48CA-A58F-13A26A29846C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
