@@ -89,7 +89,8 @@ namespace SUTODev2
             #endregion
             #region 5_LINQ
 
-            Linq.SimpleFrom();
+            //Linq.SimpleFrom();
+            Linq.HomeWork();
             #endregion
 
             #region Common
